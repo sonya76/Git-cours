@@ -1,20 +1,7 @@
-# GitCeppic
-## Cours git avec Frédéric
-### Nous sommes le 11 mai 2022
+## Git : cours
+Sonia Chalal    
+[Documentation officiel de git : https://git-scm.com/
 
-CEPPIC - Exercice git
 
-Liste non-ordonnée :
-- élément 1
-- élément 2
-- élément 3
-
-Liste ordonée :
-1. élément 1
-2. élément 2
-3. élément 3
-
-Mettre un élément en **gras**
-
-Mettre un élément *italique*
-
+Git est un système de contrôle de version décentralisé    
+Git permet de suivre les modifications du code et l'historique des fichiers d'un projet que l'on travail seul ou en équipe.
